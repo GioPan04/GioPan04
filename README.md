@@ -14,5 +14,3 @@ Question | Answer
 **Platforms I write to** | `Android, iOS and Web`
 **Languages I know**  | `Dart and NodeJS`
 **Languages I trying to learn** | `Swift, Kotlin and Python`
-
-“Know something is useless, know how to use it is useful” ~ me
