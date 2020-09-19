@@ -1,5 +1,4 @@
 # Hi there 👋
-## I was waiting for you!
 
 [![Let's chat on Telegram](https://img.shields.io/badge/telegram-giopan-purple)](https://t.me/GioPan)
 [![Check out my website](https://img.shields.io/badge/my-site-green)](https://pangio.it)
