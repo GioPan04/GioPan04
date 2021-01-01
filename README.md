@@ -4,7 +4,7 @@
 [![Check out my website](https://img.shields.io/badge/my-site-green)](https://pangio.it)
 [![Main language](https://img.shields.io/badge/main-flutter-lightblue)](https://flutter.dev)
 
-I'm  Gioele Pannetto, I'm 15 and I love programming
+I'm  Gioele Pannetto, I'm 16 and I love programming
 
 Question | Answer
 --- | --- 
