@@ -12,4 +12,4 @@ Question | Answer
 **IDE**  | `Visual Studio Code`
 **Platforms I write to** | `Android, iOS and Web`
 **Languages I know**  | `Dart and NodeJS`
-**Languages I trying to learn** | `Swift, Kotlin and Python`
+**Languages I'm trying to learn** | `TypeScript, Swift, Kotlin and Python`
