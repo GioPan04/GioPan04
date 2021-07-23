@@ -11,5 +11,5 @@ Question | Answer
 **My Computers**  | `Fujitsu TX 300 S7 & Apple MacBook Air 2015`
 **IDE**  | `Visual Studio Code`
 **Platforms I write to** | `Android, iOS and Web`
-**Languages I know**  | `Dart and NodeJS`
-**Languages I'm trying to learn** | `TypeScript, Swift, Kotlin and Python`
+**Languages I know**  | `Dart and NodeJS (with TypeScript)`
+**Languages I'm trying to learn** | `Swift, Kotlin and Python`
