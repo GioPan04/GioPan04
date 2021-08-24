@@ -2,7 +2,6 @@
 
 [![Let's chat on Telegram](https://img.shields.io/badge/telegram-giopan-purple)](https://t.me/GioPan)
 [![Check out my website](https://img.shields.io/badge/my-site-green)](https://pangio.it)
-[![Main language](https://img.shields.io/badge/main-flutter-lightblue)](https://flutter.dev)
 
 I'm  Gioele Pannetto, I'm 16 and I love programming
 
@@ -12,4 +11,4 @@ Question | Answer
 **IDE**  | `Visual Studio Code`
 **Platforms I write to** | `Android, iOS and Web`
 **Languages I know**  | `Dart and NodeJS (with TypeScript)`
-**Languages I'm trying to learn** | `Swift, Kotlin and Python`
+**Languages I'm learning** | `Swift, Kotlin and Python`
