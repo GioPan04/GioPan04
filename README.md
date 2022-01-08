@@ -3,7 +3,7 @@
 [![Let's chat on Telegram](https://img.shields.io/badge/telegram-giopan-purple)](https://t.me/GioPan)
 [![Check out my website](https://img.shields.io/badge/my-site-green)](https://pangio.it)
 
-I'm  Gioele Pannetto, I'm 16 and I love programming
+I'm  Gioele Pannetto, I'm 17 and I love programming
 
 Question | Answer
 --- | --- 
