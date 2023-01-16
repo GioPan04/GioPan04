@@ -1,15 +1,5 @@
 # Hi there 👋
 
-[![Let's chat on Telegram](https://img.shields.io/badge/telegram-giopan-purple)](https://t.me/GioPan)
-[![Check out my website](https://img.shields.io/badge/site-pangio.it-green)](https://pangio.it)
-[![wakatime](https://wakatime.com/badge/user/a3deb186-50e8-4c35-bcaa-c9e09bde3006.svg)](https://wakatime.com/@a3deb186-50e8-4c35-bcaa-c9e09bde3006)
-
-I'm  Gioele Pannetto, I'm 17 and I love programming
-
-Question | Answer
---- | --- 
-**My Computers**  | `Fujitsu TX 300 S7 & Apple MacBook Air 2015`
-**IDE**  | `Visual Studio Code`
-**Platforms I write to** | `Android, iOS and Web`
-**Languages I know**  | `Dart and NodeJS (with TypeScript)`
-**Languages I'm learning** | `Swift, Kotlin and Python`
+[![Check out my website](https://img.shields.io/badge/website-pangio.it-green)]([https://pangio.it](https://pangio.it/?utm_source=github&utm_medium=profile-readme))
+![total](https://tracking.pangio.it/api/badge/GioPan/interval:any?label=total%20coding%20time)
+![wakapi](https://github-readme-stats.vercel.app/api/wakatime?username=GioPan&api_domain=tracking.pangio.it&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)
