@@ -8,7 +8,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+PHP              2 hrs 18 mins   ███████████████▓░░░░░░░░░   63.11 %
+Bash             34 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.85 %
+Blade Template   14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
+TypeScript       13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
+YAML             7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
+Markdown         7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
+JSON             3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
 ```
 
 <!--END_SECTION:waka-->
