@@ -8,11 +8,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin       0 hrs 24 mins   ███████████████████▓░░░░░   78.75 %
-TypeScript   0 hrs 4 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.55 %
-PHP          0 hrs 2 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
-JAVA         0 hrs 0 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
-XML          0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
