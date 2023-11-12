@@ -17,7 +17,7 @@ Python       0 hrs 2 mins    ▒░░░░░░░░░░░░░░░░
 Bash         0 hrs 1 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
 JSON         0 hrs 1 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
 Text         0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-Caddyfile    0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+JavaScript   0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
