@@ -8,7 +8,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Dart   0 hrs 1 mins    █████████████████████████   100.00 %
+Markdown   0 hrs 6 mins    █████████████████▒░░░░░░░   69.29 %
+unknown    0 hrs 2 mins    ██████░░░░░░░░░░░░░░░░░░░   24.24 %
+Dart       0 hrs 1 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 %
 ```
 
 <!--END_SECTION:waka-->
