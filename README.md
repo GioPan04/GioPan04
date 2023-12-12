@@ -8,11 +8,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     0 hrs 6 mins    ████████████▒░░░░░░░░░░░░   49.21 %
-unknown      0 hrs 4 mins    ████████░░░░░░░░░░░░░░░░░   32.42 %
-TSX          0 hrs 2 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.22 %
-JavaScript   0 hrs 0 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
-Bash         0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Markdown     0 hrs 6 mins    ██████████▒░░░░░░░░░░░░░░   41.98 %
+unknown      0 hrs 4 mins    ███████░░░░░░░░░░░░░░░░░░   27.66 %
+TSX          0 hrs 2 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.69 %
+Bash         0 hrs 2 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.69 %
+JavaScript   0 hrs 0 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
 ```
 
 <!--END_SECTION:waka-->
