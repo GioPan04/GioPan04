@@ -8,10 +8,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Dart              0 hrs 31 mins   ███████████████████████░░   92.43 %
-XML               0 hrs 2 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
-Groovy            0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
-Java Properties   0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+unknown   3 hrs 11 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
