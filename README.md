@@ -8,10 +8,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go         3 hrs 50 mins   ████████████████████████▓   98.65 %
-unknown    0 hrs 3 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
-Markdown   0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-JSON       0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+unknown   2 hrs 1 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
