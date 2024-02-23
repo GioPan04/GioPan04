@@ -8,7 +8,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go   0 hrs 2 mins    █████████████████████████   100.00 %
+unknown   1 hrs 49 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
