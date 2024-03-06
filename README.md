@@ -8,8 +8,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Dart      0 hrs 34 mins   ██████████████████▒░░░░░░   73.75 %
-unknown   0 hrs 12 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.25 %
+Dart      0 hrs 23 mins   ███████████████████████▒░   92.92 %
+unknown   0 hrs 1 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+YAML      0 hrs 1 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
 ```
 
 <!--END_SECTION:waka-->
