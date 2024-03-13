@@ -8,7 +8,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   0 hrs 2 mins    █████████████████████████   100.00 %
+Astro        0 hrs 52 mins   ███████████████████▒░░░░░   77.25 %
+JavaScript   0 hrs 8 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.78 %
+Dart         0 hrs 7 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.53 %
+TypeScript   0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+HTML         0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->
