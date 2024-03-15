@@ -8,8 +8,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Astro      0 hrs 46 mins   ███████████████████▒░░░░░   77.68 %
-Markdown   0 hrs 13 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.32 %
+Markdown     1 hrs 49 mins   █████████████▒░░░░░░░░░░░   53.03 %
+Astro        1 hrs 31 mins   ███████████░░░░░░░░░░░░░░   44.11 %
+TypeScript   0 hrs 3 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+JSON         0 hrs 2 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+JavaScript   0 hrs 1 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+YAML         0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
