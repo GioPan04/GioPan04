@@ -8,7 +8,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Astro   0 hrs 2 mins    █████████████████████████   100.00 %
+Markdown   0 hrs 28 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
