@@ -8,7 +8,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   0 hrs 28 mins   █████████████████████████   100.00 %
+Astro        2 hrs 6 mins    ██████████████████▒░░░░░░   73.71 %
+TypeScript   0 hrs 41 mins   ██████░░░░░░░░░░░░░░░░░░░   24.10 %
+Markdown     0 hrs 2 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+JSON         0 hrs 1 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+unknown      0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
