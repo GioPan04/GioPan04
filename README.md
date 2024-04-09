@@ -8,12 +8,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Dart         1 hrs 26 mins   ██████████████████████░░░   87.61 %
-Astro        0 hrs 5 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
-PHP          0 hrs 3 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
-JavaScript   0 hrs 2 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
-TypeScript   0 hrs 1 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
-TSX          0 hrs 1 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+Dart         2 hrs 4 mins    ███████████████████░░░░░░   75.77 %
+Markdown     0 hrs 31 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.24 %
+unknown      0 hrs 4 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
+JSON         0 hrs 2 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+JavaScript   0 hrs 2 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
 ```
 
 <!--END_SECTION:waka-->
