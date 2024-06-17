@@ -8,8 +8,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-unknown   0 hrs 4 mins    ███████████████░░░░░░░░░░   60.45 %
-Dart      0 hrs 3 mins    ██████████░░░░░░░░░░░░░░░   39.55 %
+Dart      0 hrs 3 mins    ██████████████▒░░░░░░░░░░   56.68 %
+unknown   0 hrs 2 mins    ██████████▓░░░░░░░░░░░░░░   43.32 %
 ```
 
 <!--END_SECTION:waka-->
